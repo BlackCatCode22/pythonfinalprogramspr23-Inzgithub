@@ -1,24 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Umu3ue5O)
-# pythonFinalProgramSpr23
-The Animal Zoo Assignment with classes and lists
+100 points. Post your *.py file here for credit. 
 
-Animals are arriving from zoos around the world and you must organize then into habitats and give them names and bithdates. You must note the age, sex, species, color, and weight of each animal and calculate a birthday from the information you receive from the originating zoo. (use a function for this called: generateBirthDay) What will you do if the birth season is unknown? Calculate a uniqueID (using a function) and a place in your zoo using an array. Each species must have its own habitat. 
+Challenge yourself with your new Python skills and write a Python program that interests you. You may develop any program that you created this semester or create a new program.
 
-Use fileIO for reading the input file and producing the report. 
+Sample programs that other students are coding this semester:
 
-Use classes, lists, and dictionaries to organize your zoo.
+Python chat bot
 
-Information will arrive in the following format with an unknown number of lines.
-4 year old female hyena, born in spring, tan color, 70 pounds, from Friguia Park, Tunisia
-12 year old male hyena, born in fall, brown color, 150 pounds, from Friguia Park, Tunisia
-4 year old male hyena, born in spring, black color, 120 pounds, from Friguia Park, Tunisia
-8 year old female hyena, unknown birth season, black and tan striped color, 105 pounds, from Friguia Park, Tunisia
+Twitter clone
 
-You will use functions to calculate the following data elements for each animal:
-Unique animal ID, animal name, birth date, color, weight, origin
+Chatroom clone
 
-You must place species in their own habitat and output that in a report similar to:
+Email history search
 
-Hyena Habitat:
-Hy01, Smiling Girl, 4 years old, Smiling Girl, tan, 70 pounds, Friguia Park
+Google cloud storage connectivity
 
+Animal Zoo (I will create a Github Classroom assignment)
+
+Guessing Game
+
+An interesting list that may help:
+
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/Links to an external site. 
+
+Please let me know in the discussion forum what your final program is. We will have video presentations instead of code reviews -- create a short youTube presentation of your final program and submit the link to this assignment.
+
+
+----
+decided to try a new program instead of animal zoo. program chosen on https://www.freecodecamp.org/news/python-projects-for-beginners/#sudoku-solver-python-project . Oped to create a password generator. https://www.youtube.com/watch?v=SqvVm3QiQVk&t=2531s&ab_channel=freeCodeCamp.org/ 
